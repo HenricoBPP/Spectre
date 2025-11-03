@@ -1,0 +1,5 @@
+curl -L -o big1.rar https://download2390.mediafire.com/4r53a01h42egdfOcMRx7sa0ymmOw1anlmdi2lSLHAgzcZPiDzOaMktrM2hTvamznZYFdpB894SClbI6DFq1kk60q0o2km2E55dOrnZLQtgA2OnSOD7trmLSGs_cQq_kG0QBwRv_x56yahjNz2f4tiIfDkSik_idnFBinFaqLJOiSDUM/m7tjhgfd61lfeu4/BIG-WPA-LIST-1.rar
+
+curl -L -o big2.rar https://download2390.mediafire.com/jzp9w0o6u5xg6m_XcmEYuQjSJhKreJug4gdB7zEfdlY4Hj_X3Vn2v_zYnrDEqST_8gpCMqu7fgWlj3xc1aJYF8NvVAeQdvfI0g9EVKu67GKr3bWjxstrSGP-FS5ChmL8dlirASDe9xN_J-FmLH63Xl2Cx_nerPTzmB3fhruBEhScob8/6botgtnsy0rjfj9/BIG-WPA-LIST-2.rar
+
+curl -L -o big3.rar https://download1325.mediafire.com/s18m075tuf7gOLD2VB0neGJZJf4-QFfglcCIXH4DDOON29sifN9b-FAY2Pz5brU36e_UocL4_pbTw_ClvSY8_XcHdUs9MfpZEp7FN0Az4Uk0sMoJiVGIcQGNkmG0C0utRl2ygyNmwUd7EaIB2P7kn-Nean6b7gypxz5ll7CLsbbI_Xg/mng007wak16c67f/BIG-WPA-LIST-3.rar
